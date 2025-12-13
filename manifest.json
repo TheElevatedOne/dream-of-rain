@@ -1,0 +1,10 @@
+{
+  "name": "Dream of Rain",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "A modpack for my friend and I",
+  "dependencies": [
+    "TheTimesweeper-BetterHudLite-0.4.1",
+    "NotAJunkie-PingIconsOverhaul-1.4.0"
+  ]
+}
