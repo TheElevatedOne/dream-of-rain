@@ -10,3 +10,13 @@ Risk of Rain 2 Modpack for My Friends and I.
   <summary><b>Library Mods</b></summary>
 
 </details>
+
+https://thunderstore.io/package/Zenithrium/VanillaVoid/
+
+https://thunderstore.io/package/SpilledSoup_Projects/Faithful/
+
+https://thunderstore.io/package/William758/ZetAspects/
+
+https://thunderstore.io/package/ExpeditionCrew/Expedition/
+
+
