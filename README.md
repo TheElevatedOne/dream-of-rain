@@ -7,16 +7,17 @@ Risk of Rain 2 Modpack for My Friends and I.
 # Mod List
 
 <details>
-  <summary><b>Library Mods</b></summary>
-
+  <summary>QoL Mods</summary>
+  - <img src="https://gcdn.thunderstore.io/live/repository/icons/Groove_Salad-FixIntroSkip-1.0.0.png.128x128_q95.jpg" width="128px"> [FixIntroSkip](https://thunderstore.io/package/Groove_Salad/FixIntroSkip/)
 </details>
 
-https://thunderstore.io/package/Zenithrium/VanillaVoid/
+<details>
+  <summary>Character Mods</summary>
+</details>
 
-https://thunderstore.io/package/SpilledSoup_Projects/Faithful/
+<details>
+  <summary>Item Mods</summary>
+</details>
 
-https://thunderstore.io/package/William758/ZetAspects/
-
-https://thunderstore.io/package/ExpeditionCrew/Expedition/
 
 
