@@ -10,8 +10,8 @@ Library and Fixes Mods are not in the Mod List.
 
 <details>
   <summary>QoL Mods</summary>
-  - <a href="https://thunderstore.io/package/Groove_Salad/FixIntroSkip/">FixIntroSkip</a>
-    - <img src="https://gcdn.thunderstore.io/live/repository/icons/Groove_Salad-FixIntroSkip-1.0.0.png.128x128_q95.jpg" width="128px">
+  <img src="https://gcdn.thunderstore.io/live/repository/icons/Groove_Salad-FixIntroSkip-1.0.0.png.128x128_q95.jpg" width="128px"><br>
+  <a href="https://thunderstore.io/package/Groove_Salad/FixIntroSkip/">FixIntroSkip</a><br><br>
   - <a href="https://thunderstore.io/package/Hibiscus/Skip_Intro_Deluxe/">Skip Intro Deluxe</a>
     - <img src="https://gcdn.thunderstore.io/live/repository/icons/Hibiscus-Skip_Intro_Deluxe-1.0.2.png.128x128_q95.png">
   - <a href="https://thunderstore.io/package/Wolfo/WolfoQualityOfLife/">WolfoQualityOfLife</a>
