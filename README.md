@@ -8,8 +8,14 @@ Risk of Rain 2 Modpack for My Friends and I.
 
 Library and Fixes Mods are not in the Mod List.
 
+**Player-per-Player Options**:
+- Disabling Skip_Intro_Deluxe & FixIntroSkip
+  - I like it as it takes quite a while longer to load with the cutscene on my PC
+- WolfoQoL vs. PingIconsOverhaul Ping Icons
+  - If you want Wolfo, disable PingIconsOverhaul and enable Icons in WolfoQoL Config
+
 <details>
-  <summary>QoL Mods</summary>
+  <summary>**QoL Mods**</summary>
   <img src="https://gcdn.thunderstore.io/live/repository/icons/Groove_Salad-FixIntroSkip-1.0.0.png.128x128_q95.jpg" width="128px"><br>
   <a href="https://thunderstore.io/package/Groove_Salad/FixIntroSkip/">FixIntroSkip</a><br><br>
 
@@ -40,8 +46,8 @@ Library and Fixes Mods are not in the Mod List.
   <img src="https://gcdn.thunderstore.io/live/repository/icons/DropPod-LookingGlass-1.14.4.png.128x128_q95.jpg"><br>
   <a href="https://thunderstore.io/package/DropPod/LookingGlass/">LookingGlass</a><br><br>
 
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/Kyryh-PermaPings-1.0.4.png.128x128_q95.png"><br><br>
-  <a href="https://thunderstore.io/package/Kyryh/PermaPings/">PermaPings</a><br>
+  <img src="https://gcdn.thunderstore.io/live/repository/icons/Kyryh-PermaPings-1.0.4.png.128x128_q95.png"><br>
+  <a href="https://thunderstore.io/package/Kyryh/PermaPings/">PermaPings</a><br><br>
 
   <img src="https://gcdn.thunderstore.io/live/repository/icons/NotAJunkie-PingIconsOverhaul-1.4.0.png.128x128_q95.jpg"><br>
   <a href="https://thunderstore.io/package/NotAJunkie/PingIconsOverhaul/">PingIconsOverhaul</a><br><br>
@@ -62,20 +68,32 @@ Library and Fixes Mods are not in the Mod List.
   <a href="https://thunderstore.io/package/6thmoon/UnlockMomentum/">UnlockMomentum</a><br><br>
 
   <img src="https://gcdn.thunderstore.io/live/repository/icons/6thmoon-DifficultySelection-0.1.3.png.128x128_q95.png"><br>
-  <a href="https://thunderstore.io/package/6thmoon/DifficultySelection/">DifficultySelection</a>
+  <a href="https://thunderstore.io/package/6thmoon/DifficultySelection/">DifficultySelection</a><br><br>
+
+  <a href="https://thunderstore.io/package/ItsZenEXE/ItsZenEXEs_Ping_And_UI_Improvements/">ItsZenEXEs Ping And UI Improvements</a><br>
+  <img src="ItsZenEXE-ItsZenEXEs_Ping_And_UI_Improvements-4.3.0"><br><br>
+
+  <a href="https://thunderstore.io/package/Goorakh/NoMoreMath/"></a>NoMoreMath<br>
+  <img src="https://gcdn.thunderstore.io/live/repository/icons/Goorakh-NoMoreMath-2.1.2.png.128x128_q95.png"><br><br>
+
+  <a href="https://thunderstore.io/package/Goorakh/CollapseDisplay/">CollapseDisplay</a><br>
+  <img src="https://gcdn.thunderstore.io/live/repository/icons/Goorakh-CollapseDisplay-1.5.1.png.128x128_q95.png"><br><br>
 </details>
 
 <details>
-  <summary>Character Mods</summary>
+  <summary>**Character Mods**</summary>
   <img src="https://gcdn.thunderstore.io/live/repository/icons/tsuyoikenko-Seamstress-1.6.8.png.128x128_q95.png"><br>
   <a href="https://thunderstore.io/package/tsuyoikenko/Seamstress/">Seamstress</a><br><br>
 
   <img src="https://gcdn.thunderstore.io/live/repository/icons/tsuyoikenko-Wanderer-0.8.9.png.128x128_q95.jpg"><br>
   <a href="https://thunderstore.io/package/tsuyoikenko/Wanderer/">Wanderer</a>
+
+  <a href="https://thunderstore.io/package/PopcornFactory/Arsonist_Mod/">Arsonist</a><br>
+  <img src="https://gcdn.thunderstore.io/live/repository/icons/PopcornFactory-Arsonist_Mod-3.0.5.png.128x128_q95.jpg"><br><br>
 </details>
 
 <details>
-  <summary>Item Mods</summary>
+  <summary>**Item Mods**</summary>
   <img src="https://gcdn.thunderstore.io/live/repository/icons/William758-ZetAspects-2.10.4.png.128x128_q95.png"><br>
   <a href="https://thunderstore.io/package/William758/ZetAspects/">ZetAspects</a><br><br>
 
