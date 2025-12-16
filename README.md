@@ -71,7 +71,7 @@ Library and Fixes Mods are not in the Mod List.
   <a href="https://thunderstore.io/package/6thmoon/DifficultySelection/">DifficultySelection</a><br><br>
 
   <a href="https://thunderstore.io/package/ItsZenEXE/ItsZenEXEs_Ping_And_UI_Improvements/">ItsZenEXEs Ping And UI Improvements</a><br>
-  <img src="ItsZenEXE-ItsZenEXEs_Ping_And_UI_Improvements-4.3.0"><br><br>
+  <img src="https://gcdn.thunderstore.io/live/repository/icons/ItsZenEXE-ItsZenEXEs_Ping_And_UI_Improvements-4.3.0.png.128x128_q95.png"><br><br>
 
   <a href="https://thunderstore.io/package/Goorakh/NoMoreMath/"></a>NoMoreMath<br>
   <img src="https://gcdn.thunderstore.io/live/repository/icons/Goorakh-NoMoreMath-2.1.2.png.128x128_q95.png"><br><br>
