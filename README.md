@@ -15,7 +15,7 @@ Library and Fixes Mods are not in the Mod List.
   - If you want Wolfo, disable PingIconsOverhaul and enable Icons in WolfoQoL Config
 
 <details>
-  <summary>**QoL Mods**</summary>
+  <summary><b><u>QoL Mods</u></b></summary>
   <img src="https://gcdn.thunderstore.io/live/repository/icons/Groove_Salad-FixIntroSkip-1.0.0.png.128x128_q95.jpg" width="128px"><br>
   <a href="https://thunderstore.io/package/Groove_Salad/FixIntroSkip/">FixIntroSkip</a><br><br>
 
@@ -84,7 +84,7 @@ Library and Fixes Mods are not in the Mod List.
 </details>
 
 <details>
-  <summary>**Character Mods**</summary>
+  <summary><b><u>Character Mods</u></b></summary>
   <img src="https://gcdn.thunderstore.io/live/repository/icons/tsuyoikenko-Seamstress-1.6.8.png.128x128_q95.png"><br>
   <a href="https://thunderstore.io/package/tsuyoikenko/Seamstress/">Seamstress</a><br><br>
 
@@ -96,7 +96,7 @@ Library and Fixes Mods are not in the Mod List.
 </details>
 
 <details>
-  <summary>**Item Mods**</summary>
+  <summary><b><u>Item Mods</u></b></summary>
   <img src="https://gcdn.thunderstore.io/live/repository/icons/William758-ZetAspects-2.10.4.png.128x128_q95.png"><br>
   <a href="https://thunderstore.io/package/William758/ZetAspects/">ZetAspects</a><br><br>
 
