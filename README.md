@@ -78,6 +78,9 @@ Library and Fixes Mods are not in the Mod List.
 
   <a href="https://thunderstore.io/package/Goorakh/CollapseDisplay/">CollapseDisplay</a><br>
   <img src="https://gcdn.thunderstore.io/live/repository/icons/Goorakh-CollapseDisplay-1.5.1.png.128x128_q95.png"><br><br>
+
+  <a href="https://thunderstore.io/package/riskofresources/BalancedFasterInteractables/">BalancedFasterInteractables</a><br>
+  <img src="https://gcdn.thunderstore.io/live/repository/icons/riskofresources-BalancedFasterInteractables-1.3.2.png.128x128_q95.png"><br><br>
 </details>
 
 <details>

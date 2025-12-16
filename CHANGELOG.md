@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.2.1
+
+- Add Faster Interactibles with Time Penalty and its config
+
 ## 1.2.0
 
 - Add Arsonist - a new character
