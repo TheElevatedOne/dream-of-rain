@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.2.2
+
+- Update some configs
+
 ## 1.2.1
 
 - Add Faster Interactibles with Time Penalty and its config
