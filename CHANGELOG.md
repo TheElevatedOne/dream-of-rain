@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.2.3
+
+- Forgot about StageRecap
+
 ## 1.2.2
 
 - Update some configs

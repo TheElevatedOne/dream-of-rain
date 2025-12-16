@@ -1,6 +1,6 @@
 {
   "name": "DreamOfRain",
-  "version_number": "1.2.2",
+  "version_number": "1.2.3",
   "website_url": "https://github.com/TheElevatedOne/dream-of-rain",
   "description": "A Modpack For Me and My Friends",
   "dependencies": [
@@ -71,6 +71,7 @@
     "ItsZenEXE-ItsZenEXEs_Ping_And_UI_Improvements-4.3.0",
     "Goorakh-NoMoreMath-2.1.2",
     "Goorakh-CollapseDisplay-1.5.1",
-    "riskofresources-BalancedFasterInteractables-1.3.2"
+    "riskofresources-BalancedFasterInteractables-1.3.2",
+    "Lawlzee-StageRecap-1.4.0"
   ]
 }
