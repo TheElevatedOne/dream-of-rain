@@ -16,6 +16,7 @@ Library and Fixes Mods are not in the Mod List.
 
 <details>
   <summary><b>QoL Mods</b></summary>
+  <br>
   <img src="https://gcdn.thunderstore.io/live/repository/icons/Groove_Salad-FixIntroSkip-1.0.0.png.128x128_q95.jpg" width="128px"><br>
   <a href="https://thunderstore.io/package/Groove_Salad/FixIntroSkip/">FixIntroSkip</a><br><br>
 
@@ -74,7 +75,7 @@ Library and Fixes Mods are not in the Mod List.
   <a href="https://thunderstore.io/package/ItsZenEXE/ItsZenEXEs_Ping_And_UI_Improvements/">ItsZenEXEs Ping And UI Improvements</a><br><br>
 
   <img src="https://gcdn.thunderstore.io/live/repository/icons/Goorakh-NoMoreMath-2.1.2.png.128x128_q95.png"><br>
-  <a href="https://thunderstore.io/package/Goorakh/NoMoreMath/"></a>NoMoreMath<br><br>
+  <a href="https://thunderstore.io/package/Goorakh/NoMoreMath/">NoMoreMath</a><br><br>
 
   <img src="https://gcdn.thunderstore.io/live/repository/icons/Goorakh-CollapseDisplay-1.5.1.png.128x128_q95.png"><br>
   <a href="https://thunderstore.io/package/Goorakh/CollapseDisplay/">CollapseDisplay</a><br><br>
@@ -83,23 +84,37 @@ Library and Fixes Mods are not in the Mod List.
   <a href="https://thunderstore.io/package/riskofresources/BalancedFasterInteractables/">BalancedFasterInteractables</a><br><br>
 
   <img src="https://gcdn.thunderstore.io/live/repository/icons/Lawlzee-StageRecap-1.4.0.png.128x128_q95.jpg"><br>
-  <a href="https://thunderstore.io/package/Lawlzee/StageRecap/">StageRecap</a>
+  <a href="https://thunderstore.io/package/Lawlzee/StageRecap/">StageRecap</a><br><br>
+
+  <img src="https://gcdn.thunderstore.io/live/repository/icons/prodzpod-StageAesthetic-1.1.11.png.128x128_q95.png"><br>
+  <a href="https://thunderstore.io/package/prodzpod/StageAesthetic/">StageAesthetic</a><br><br>
+
+  <img src="https://gcdn.thunderstore.io/live/repository/icons/TeamMoonstorm-Starstorm2-0.6.27.png.128x128_q95.png"><br>
+  <a href="https://thunderstore.io/package/TeamMoonstorm/Starstorm2/">Starstorm2</a><br><br>
 </details>
 
 <details>
   <summary><b>Character Mods</b></summary>
+  <br>
+  <img src="https://gcdn.thunderstore.io/live/repository/icons/Paladin_Alliance-PaladinMod-2.1.0.png.128x128_q95.png"><br>
+  <a href="https://thunderstore.io/package/Paladin_Alliance/PaladinMod/">Paladin</a><br><br>
+
   <img src="https://gcdn.thunderstore.io/live/repository/icons/tsuyoikenko-Seamstress-1.6.8.png.128x128_q95.png"><br>
   <a href="https://thunderstore.io/package/tsuyoikenko/Seamstress/">Seamstress</a><br><br>
 
   <img src="https://gcdn.thunderstore.io/live/repository/icons/tsuyoikenko-Wanderer-0.8.9.png.128x128_q95.jpg"><br>
   <a href="https://thunderstore.io/package/tsuyoikenko/Wanderer/">Wanderer</a><br><br>
 
-  <a href="https://thunderstore.io/package/PopcornFactory/Arsonist_Mod/">Arsonist</a><br>
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/PopcornFactory-Arsonist_Mod-3.0.5.png.128x128_q95.jpg">
+  <img src="https://gcdn.thunderstore.io/live/repository/icons/PopcornFactory-Arsonist_Mod-3.0.5.png.128x128_q95.jpg"><br>
+  <a href="https://thunderstore.io/package/PopcornFactory/Arsonist_Mod/">Arsonist</a><br><br>
+
+  <img src="https://gcdn.thunderstore.io/live/repository/icons/tsuyoikenko-Banshee-0.7.6.png.128x128_q95.png"><br>
+  <a href="https://thunderstore.io/package/tsuyoikenko/Banshee/">Banshee</a><br><br>
 </details>
 
 <details>
   <summary><b>Item Mods</b></summary>
+  <br>
   <img src="https://gcdn.thunderstore.io/live/repository/icons/William758-ZetAspects-2.10.4.png.128x128_q95.png"><br>
   <a href="https://thunderstore.io/package/William758/ZetAspects/">ZetAspects</a><br><br>
 
@@ -107,7 +122,7 @@ Library and Fixes Mods are not in the Mod List.
   <a href="https://thunderstore.io/package/SpilledSoup_Projects/Faithful/">Faithful</a><br><br>
 
   <img src="https://gcdn.thunderstore.io/live/repository/icons/Zenithrium-VanillaVoid-1.7.0.png.128x128_q95.png"><br>
-  <a href="https://thunderstore.io/package/Zenithrium/VanillaVoid/">VanillaVoid</a>
+  <a href="https://thunderstore.io/package/Zenithrium/VanillaVoid/">VanillaVoid</a><br><br>
 </details>
 
 

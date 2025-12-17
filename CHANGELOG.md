@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 1.3.0
+
+- Added a new Character - Banshee
+- Added StageAesthetic
+- Added Starstorm2
+
 ## 1.2.3
 
 - Forgot about StageRecap
