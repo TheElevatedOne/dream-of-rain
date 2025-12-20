@@ -118,9 +118,6 @@ Library and Fixes Mods are not in the Mod List.
   <img src="https://gcdn.thunderstore.io/live/repository/icons/William758-ZetAspects-2.10.4.png.128x128_q95.png"><br>
   <a href="https://thunderstore.io/package/William758/ZetAspects/">ZetAspects</a><br><br>
 
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/SpilledSoup_Projects-Faithful-1.3.17.png.128x128_q95.png"><br>
-  <a href="https://thunderstore.io/package/SpilledSoup_Projects/Faithful/">Faithful</a><br><br>
-
   <img src="https://gcdn.thunderstore.io/live/repository/icons/Zenithrium-VanillaVoid-1.7.0.png.128x128_q95.png"><br>
   <a href="https://thunderstore.io/package/Zenithrium/VanillaVoid/">VanillaVoid</a><br><br>
 </details>

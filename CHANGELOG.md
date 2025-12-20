@@ -5,6 +5,7 @@
 - Added a new Character - Banshee
 - Added StageAesthetic
 - Added Starstorm2
+- Removed Faithful
 
 ## 1.2.3
 
