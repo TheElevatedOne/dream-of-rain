@@ -30,10 +30,30 @@ Library and Fixes Mods are not in the Mod List.
       <td><a href="https://thunderstore.io/package/Wolfo/WolfoQualityOfLife/">WolfoQualityOfLife</a></td>
     </tr>
     <tr>
-      <td>Fix Unskippable Intro</td>
+      <td>Fix Unskippable<br> Intro</td>
       <td>Force Skip Intro</td>
       <td>Gameplay Changes</td>
       <td>QoL Changes</td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <th><a href="https://thunderstore.io/package/score/AutoSprint/"><img src="https://gcdn.thunderstore.io/live/repository/icons/score-AutoSprint-1.5.1.png.128x128_q95.png"></a></th>
+      <th><a href="https://thunderstore.io/package/TheTimesweeper/BetterHudLite/"><img src="https://gcdn.thunderstore.io/live/repository/icons/TheTimesweeper-BetterHudLite-0.4.1.png.128x128_q95.jpg"></a></th>
+      <th><a href="https://thunderstore.io/package/niwith/DropinMultiplayer/"><img src="https://gcdn.thunderstore.io/live/repository/icons/niwith-DropinMultiplayer-4.2.0.png.128x128_q95.png"></a></th>
+      <th><a href="https://thunderstore.io/package/itsschwer/HUDdleUP/"><img src="https://gcdn.thunderstore.io/live/repository/icons/itsschwer-HUDdleUP-1.3.1.png.128x128_q95.png"></a></th>
+    </tr>
+    <tr>
+      <td><a href="https://thunderstore.io/package/score/AutoSprint/">AutoSprint</a></td>
+      <td><a href="https://thunderstore.io/package/TheTimesweeper/BetterHudLite/">BetterHudLite</a></td>
+      <td><a href="https://thunderstore.io/package/niwith/DropinMultiplayer/">DropinMultiplayer</a></td>
+      <td><a href="https://thunderstore.io/package/itsschwer/HUDdleUP/">HUDdleUP</a></td>
+    </tr>
+    <tr>
+      <td>Sprint by Default<br>Hold Sprint to Walk</td>
+      <td>Centered HUD</td>
+      <td>Join Already Active<br>Run in Multiplayer</td>
+      <td>Show Remaining Chests<br>and Drones in<br>Scoreboard View</td>
     </tr>
   </table>
 </details>
