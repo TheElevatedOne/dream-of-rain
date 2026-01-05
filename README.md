@@ -17,42 +17,6 @@ Library and Fixes Mods are not in the Mod List.
 <details>
   <summary><b>QoL Mods</b></summary>
   <br>
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/Groove_Salad-FixIntroSkip-1.0.0.png.128x128_q95.jpg" width="128px"><br>
-  <a href="https://thunderstore.io/package/Groove_Salad/FixIntroSkip/">FixIntroSkip</a><br><br>
-
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/Hibiscus-Skip_Intro_Deluxe-1.0.2.png.128x128_q95.png"><br>
-  <a href="https://thunderstore.io/package/Hibiscus/Skip_Intro_Deluxe/">Skip Intro Deluxe</a><br><br>
-
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/Wolfo-WolfoQualityOfLife-5.1.0.png.128x128_q95.jpg"><br>
-  <a href="https://thunderstore.io/package/Wolfo/WolfoQualityOfLife/">WolfoQualityOfLife</a><br><br>
-
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/Wolfo-WolfoQoL_Gameplay-1.1.0.png.128x128_q95.jpg"><br>
-  <a href="https://thunderstore.io/package/Wolfo/WolfoQoL_Gameplay/">WolfoQoL Gameplay</a><br><br>
-
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/score-AutoSprint-1.5.1.png.128x128_q95.png"><br>
-  <a href="https://thunderstore.io/package/score/AutoSprint/">AutoSprint</a><br><br>
-
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/TheTimesweeper-BetterHudLite-0.4.1.png.128x128_q95.jpg"><br>
-  <a href="https://thunderstore.io/package/TheTimesweeper/BetterHudLite/">BetterHudLite</a><br><br>
-
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/niwith-DropinMultiplayer-4.2.0.png.128x128_q95.png"><br>
-  <a href="https://thunderstore.io/package/niwith/DropinMultiplayer/">DropinMultiplayer</a><br><br>
-
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/itsschwer-HUDdleUP-1.3.1.png.128x128_q95.png"><br>
-  <a href="https://thunderstore.io/package/itsschwer/HUDdleUP/">HUDdleUP</a><br><br>
-
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/Moffein-ItemStats-1.3.4.png.128x128_q95.jpg"><br>
-  <a href="https://thunderstore.io/package/Moffein/ItemStats/">ItemStats</a><br><br>
-
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/DropPod-LookingGlass-1.14.4.png.128x128_q95.jpg"><br>
-  <a href="https://thunderstore.io/package/DropPod/LookingGlass/">LookingGlass</a><br><br>
-
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/Kyryh-PermaPings-1.0.4.png.128x128_q95.png"><br>
-  <a href="https://thunderstore.io/package/Kyryh/PermaPings/">PermaPings</a><br><br>
-
-  <img src="https://gcdn.thunderstore.io/live/repository/icons/NotAJunkie-PingIconsOverhaul-1.4.0.png.128x128_q95.jpg"><br>
-  <a href="https://thunderstore.io/package/NotAJunkie/PingIconsOverhaul/">PingIconsOverhaul</a><br><br>
-
   <img src="https://gcdn.thunderstore.io/live/repository/icons/KingEnderBrine-ProperSave-2.13.2.png.128x128_q95.png"><br>
   <a href="https://thunderstore.io/package/KingEnderBrine/ProperSave/">ProperSave</a><br><br>
 
