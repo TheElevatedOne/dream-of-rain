@@ -1,6 +1,6 @@
 {
   "name": "DreamOfRain",
-  "version_number": "1.4.0",
+  "version_number": "1.4.1",
   "website_url": "https://github.com/TheElevatedOne/dream-of-rain",
   "description": "A Modpack For Me and My Friends",
   "dependencies": [
@@ -76,6 +76,8 @@
     "prodzpod-StageAesthetic-1.1.11",
     "TeamMoonstorm-Starstorm2-0.6.27",
     "Goorakh-Quality-0.5.3",
-    "Nuxlar-UmbralMithrix-2.5.17"
+    "Nuxlar-UmbralMithrix-2.5.17",
+    "rob-HEL_P-2.2.1",
+    "Smxrez-BepInEx_Faster_Load_AssetBundles_Patcher-1.0.0"
   ]
 }

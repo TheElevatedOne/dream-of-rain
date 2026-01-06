@@ -159,6 +159,17 @@ Library and Fixes Mods are not in the Mod List.
       <td>Adds Color Schemes<br>to Stages</td>
     </tr>
   </table>
+    <table>
+    <tr>
+      <th><a href="https://thunderstore.io/package/Smxrez/BepInEx_Faster_Load_AssetBundles_Patcher/"><img src="https://gcdn.thunderstore.io/live/repository/icons/Smxrez-BepInEx_Faster_Load_AssetBundles_Patcher-1.0.0.png.128x128_q95.png"></a></th>
+    </tr>
+    <tr>
+      <td><a href="https://thunderstore.io/package/Smxrez/BepInEx_Faster_Load_AssetBundles_Patcher/">BepInEx Faster Load<br>AssetBundles Patcher</a></td>
+    </tr>
+    <tr>
+      <td>Chaches Mods<br>Potential For Faster<br>Loading</td>
+    </tr>
+  </table>
 </details>
 
 <details>
@@ -207,12 +218,22 @@ Library and Fixes Mods are not in the Mod List.
   <table>
     <tr>
       <th><a href="https://thunderstore.io/package/tsuyoikenko/Banshee/"><img src="https://gcdn.thunderstore.io/live/repository/icons/tsuyoikenko-Banshee-0.7.6.png.128x128_q95.png"></a></th>
+      <th><a href="https://thunderstore.io/package/rob/HEL_P/"><img src="https://gcdn.thunderstore.io/live/repository/icons/rob-HEL_P-2.2.1.png.128x128_q95.jpg"></a></th>
     </tr>
     <tr>
       <td><a href="https://thunderstore.io/package/tsuyoikenko/Banshee/">Banshee</a></td>
+      <td><a href="https://thunderstore.io/package/rob/HEL_P/">HEL-P</a></td>
     </tr>
     <tr>
       <td>Fun Survivor</td>
+      <td>A Drone... Survivor<br>XDDDD</td>
     </tr>
   </table>
 </details>
+
+## Info
+
+- Files for this Modpack are hosted on my [**Github**](https://github.com/TheElevatedOne/dream-of-rain)
+- You can Recommend a Mod via an [**Issue Template**](https://github.com/TheElevatedOne/dream-of-rain/issues/new?template=mod_recommend.yml) I created
+  - Some Mods will be strictly rejected, due to this being a somewhat understandable Modpack
+  - Character, Skin & Stage Mods will be more likely to be accepted than Overhaul & Item Mods

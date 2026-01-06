@@ -1,6 +1,6 @@
 name: Mod Recommendation
 description: Recommend a Mod for the Modpack
-title: "[Mod] "
+title: "[Mod] <Mod Name>"
 labels: ["enhancement"]
 assignees:
   - TheElevatedOne

@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 1.4.1
+
+- Added HEL-P
+- Add a Way to Recommend Mods
+- Added BepInEx Faster Load AssetBundles Patcher
+
 ## 1.4.0
 
 - Added UmbralMithrix
