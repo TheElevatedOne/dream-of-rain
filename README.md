@@ -167,7 +167,7 @@ Library and Fixes Mods are not in the Mod List.
       <td><a href="https://thunderstore.io/package/Smxrez/BepInEx_Faster_Load_AssetBundles_Patcher/">BepInEx Faster Load<br>AssetBundles Patcher</a></td>
     </tr>
     <tr>
-      <td>Chaches Mods<br>Potential For Faster<br>Loading</td>
+      <td>Caches Mods<br>Potential For Faster<br>Loading</td>
     </tr>
   </table>
 </details>
