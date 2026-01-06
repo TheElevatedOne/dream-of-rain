@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 1.4.0
+
+- Added UmbralMithrix
+- Added Quality
+- Change README.md
+
 ## 1.3.0
 
 - Added a new Character - Banshee
