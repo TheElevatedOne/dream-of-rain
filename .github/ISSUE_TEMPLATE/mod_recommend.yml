@@ -1,0 +1,59 @@
+name: Mod Recommendation
+description: Recommend a Mod for the Modpack
+title: "[Mod] "
+labels: ["enhancement"]
+assignees:
+  - TheElevatedOne
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Mod Recommendation
+
+  - type: input
+    id: url
+    attributes:
+      label: Thunderstore Link
+      description: Mod Link from Thunderstore
+      placeholder: "https://thunderstore.io/package/"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        - **Modpacks** and **NSFW** Mods are Disallowed.
+        - Please Check only the correct tags.
+        - Mods like the **Starstorm2** or **Sandswept** should use only the **Overhaul** tag.
+
+  - type: checkboxes
+    id: tags
+    attributes:
+      label: Mod Tags
+      options:
+        - label: Overhaul
+        - label: Skins
+        - label: Maps
+        - label: Tweaks
+        - label: Items
+        - label: Enemies
+        - label: Characters
+        - label: Artifacts
+        - label: Gamemodes
+        - label: Skills
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Mod Info
+      description: Simple Mod Description
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Info
+      description: Any Additional Information Needed
